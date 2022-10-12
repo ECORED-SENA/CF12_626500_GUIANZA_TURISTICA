@@ -32,10 +32,10 @@
       .row.justify-content-center.align-items-center
         .col-12.col-md-8.col-lg-10.col-xl-10.mb-3(data-aos="fade-left")
           p.mb-3 Los anteriores conceptos aplicados al ejercicio del guionaje están interrelacionados con otros a tener en cuenta:
-            ul.lista-ul.mt-5(style="position:relative")
-              li(data-aos="fade-up")
-                p #[i.fas.fa-paper-plane(style="color:#FF5900;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong Temporadas.] Se dice que, en el siglo XXI, este concepto de periodo o ciclo mayor a una semana y menor a un año, en donde se realizan actividades específicas, tiende a desaparecer;  sin embargo, y de acuerdo con Milio Balanzá, (2004), para comprender las razones por las que existen las temporadas definidas en este caso para el turismo alta, media y baja, es necesario conocer las características de la demanda, como se comparten a continuación:
-
+            ul.lista-ul--color.mt-3
+              li
+                i.vineta(data-aos="fade-up") 
+                p.mb-0 #[strong Temporadas.] Se dice que, en el siglo XXI, este concepto de periodo o ciclo mayor a una semana y menor a un año, en donde se realizan actividades específicas, tiende a desaparecer;  sin embargo, y de acuerdo con Milio Balanzá, (2004), para comprender las razones por las que existen las temporadas definidas en este caso para el turismo alta, media y baja, es necesario conocer las características de la demanda, como se comparten a continuación:
 
     .tarjeta.bg_grad-01.p-4.mb-5(data-aos="zoom-in-up")
       SlyderA(tipo="b")

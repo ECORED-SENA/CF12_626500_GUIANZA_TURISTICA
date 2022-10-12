@@ -53,21 +53,26 @@
       .col-lg-4.lg-0
         img(src='@/assets/curso/images/tema3/img_1.png'  alt='')
       .col-lg-6.lg-0
-        ul.lista-ul.mt-5(style="position:relative")
-            li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong.color-text Servicios turísticos:] son los servicios que se le ofrecen al turista como transporte, alojamiento, alimentación, atractivos, entre otros.
-            hr 
-            li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong.color-text Servicios personales:] incluyen los pagos de personal que participarán en el recorrido, como sueldos y honorarios, los cuales pueden ser calculados por días o por horas.
-            hr 
-            li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong.color-text  Equipos:] se incluyen los equipos que se van a manejar.
-            hr 
-            li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong.color-text Insumos y materiales:]como folletos, fichas, entre otros.
-            hr 
-            li(data-aos="fade-up")
-              p #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] #[strong.color-text Otros gastos:] puede contemplarse los imprevistos. 
+        ul.lista-ul--color.mt-3
+          li
+            i.vineta(data-aos="fade-up") 
+            p.mb-0 #[strong.color-text Servicios turísticos:] son los servicios que se le ofrecen al turista como transporte, alojamiento, alimentación, atractivos, entre otros.
+          hr 
+          li
+            i.vineta(data-aos="fade-up") 
+            p.mb-0  #[strong.color-text Servicios personales:] incluyen los pagos de personal que participarán en el recorrido, como sueldos y honorarios, los cuales pueden ser calculados por días o por horas.
+          hr 
+          li
+            i.vineta(data-aos="fade-up") 
+            p.mb-0 #[strong.color-text  Equipos:] se incluyen los equipos que se van a manejar.
+          hr 
+          li
+            i.vineta(data-aos="fade-up") 
+            p.mb-0 #[strong.color-text Insumos y materiales:] como folletos, fichas, entre otros.
+          hr 
+          li
+            i.vineta(data-aos="fade-up")
+            p.mb-0 #[strong.color-text Otros gastos:] puede contemplarse los imprevistos. 
 
     p.mb-3 Los ítems dependen de las características del servicio, puntualmente número de pasajeros y servicio incluidos.
 

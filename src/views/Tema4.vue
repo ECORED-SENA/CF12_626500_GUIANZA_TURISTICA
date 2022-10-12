@@ -37,39 +37,48 @@
       .col-lg-6.lg-0(data-aos="fade-left")
         p.mb-0 Luego de identificar las características del mercado turístico, el guía puede adentrarse a realizar un pronóstico de sus operaciones, con el objetivo de predecir en un periodo futuro. Como lo menciona Luna González (2015), los indicadores claves para los pronósticos efectivos son:
 
-        ul.lista-ul.mt-5(style="position:relative")
-          li(data-aos="fade-up")
-            p.mb-0 #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] <b>Conocer la historia para estimar el futuro (Nº de servicios según la temporada)</b>, especialmente las variaciones del calendario, días hábiles o fines de semana. 
+        ul.lista-ul--color.mt-3
+          li
+            i.vineta(data-aos="fade-up") 
+            p.mb-0 <b>Conocer la historia para estimar el futuro (Nº de servicios según la temporada)</b>, especialmente las variaciones del calendario, días hábiles o fines de semana. 
 
-          li(data-aos="fade-up")
-            p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] <b>Mantener actualizados sus conocimientos sobre el segmento de mercado</b> al que pertenecen sus usuarios, por ejemplo, demanda o convenios especiales.
+          li
+            i.vineta(data-aos="fade-up") 
+            p.mb-0 <b>Mantener actualizados sus conocimientos sobre el segmento de mercado</b> al que pertenecen sus usuarios, por ejemplo, demanda o convenios especiales.
 
-          li(data-aos="fade-up")
-            p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] <b>Capacidad de repetir la experiencia turística </b> del cliente.
+          li
+            i.vineta(data-aos="fade-up") 
+            p.mb-0 <b>Capacidad de repetir la experiencia turística </b> del cliente.
 
     p.mb-0 Para que pueda realizar un pronóstico de ventas del servicio guiado debe tener en cuenta las siguientes preguntas: 
 
     .row.d-none.d-lg-block.m-top
       .row.fondo-4.mb-0
         .col-lg-7.mb-3.mb-lg-0.p-5(style="place-self:center")
-          ul.lista-ul.mt-5(style="position:relative")
-            li(data-aos="fade-up")
-              p.mb-0 #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuántas horas diarias en promedio labora como guía?
+          ul.lista-ul--color.mt-5
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0 ¿Cuántas horas diarias en promedio labora como guía?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuántos días a la semana laborará?
+            li
+              i.vineta(data-aos="fade-up")
+              p.mb-0 ¿Cuántos días a la semana laborará?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuántos días libres desearía tener al año?
+            li
+              i.vineta(data-aos="fade-up")
+              p.mb-0 ¿Cuántos días libres desearía tener al año?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿En promedio cuántos días de incapacidad tendría al año?
+            li
+              i.vineta(data-aos="fade-up")
+              p.mb-0 ¿En promedio cuántos días de incapacidad tendría al año?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuántas horas diarias considera que gastaría fuera del servicio guiado en reuniones con contratantes o usuarios, ofreciendo sus servicios, contestar correos, legalizando cuenta de cobro y de gastos, actividades similares, diseñar nuevos productos, visitar nuevos lugares, etc.?
+            li
+              i.vineta(data-aos="fade-up")
+              p.mb-0 ¿Cuántas horas diarias considera que gastaría fuera del servicio guiado en reuniones con contratantes o usuarios, ofreciendo sus servicios, contestar correos, legalizando cuenta de cobro y de gastos, actividades similares, diseñar nuevos productos, visitar nuevos lugares, etc.?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuál sería el ingreso mensual, ideal por los servicios de guianza?
+            li
+              i.vineta(data-aos="fade-up")
+              p.mb-0  ¿Cuál sería el ingreso mensual, ideal por los servicios de guianza?
 
         .col-lg-3.mb-3.mb-lg-0.ps-4.pe-4(style="place-self:center")
           figure.text-center
@@ -78,24 +87,30 @@
     .row.justify-content-center.align-items-star.d-block.d-lg-none
       .row
         .col-lg-7.mb-3.mb-lg-0.p-5(style="place-self:center")
-          ul.lista-ul.mt-5(style="position:relative")
-            li(data-aos="fade-up")
-              p.mb-0 #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuántas horas diarias en promedio labora como guía?
+          ul.lista-ul--color.mt-5
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0  ¿Cuántas horas diarias en promedio labora como guía?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuántos días a la semana laborará?
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0  ¿Cuántos días a la semana laborará?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuántos días libres desearía tener al año?
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0 ¿Cuántos días libres desearía tener al año?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿En promedio cuántos días de incapacidad tendría al año?
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0 ¿En promedio cuántos días de incapacidad tendría al año?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuántas horas diarias considera que gastaría fuera del servicio guiado en reuniones con contratantes o usuarios, ofreciendo sus servicios, contestar correos, legalizando cuenta de cobro y de gastos, actividades similares, diseñar nuevos productos, visitar nuevos lugares, etc.?
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0  ¿Cuántas horas diarias considera que gastaría fuera del servicio guiado en reuniones con contratantes o usuarios, ofreciendo sus servicios, contestar correos, legalizando cuenta de cobro y de gastos, actividades similares, diseñar nuevos productos, visitar nuevos lugares, etc.?
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] ¿Cuál sería el ingreso mensual, ideal por los servicios de guianza?
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0  ¿Cuál sería el ingreso mensual, ideal por los servicios de guianza?
 
         .col-lg-3.mb-3.mb-lg-0.ps-4.pe-4(style="place-self:center")
           figure.text-center
@@ -160,17 +175,17 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .col-lg-2.lg-0
-        img.mx-5(src='@/assets/curso/images/tema4/ico_4_1.svg', alt='', style="width:130px; display:block; margin:auto 0 ;")
+        img.mx-5(src='@/assets/curso/images/tema4/ico_4_1.svg', alt='', style="width:100px; display:block; margin:auto 0 ;")
       .col-lg-10.lg-0
         p.mb-0 <b>Materia Prima:</b> elemento base para la elaboración de los productos o para la prestación de servicios y que normalmente tienen la mayor representación en el costo.
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .col-lg-2.lg-0
-        img.mx-5(src='@/assets/curso/images/tema4/ico_5_1.svg', alt='', style="width:130px; display:block; margin:auto 0 ;")
+        img.mx-5(src='@/assets/curso/images/tema4/ico_5_1.svg', alt='', style="width:100px; display:block; margin:auto 0 ;")
       .col-lg-10.lg-0
         p.mb-0 <b>Mano de obra:</b> valor correspondiente al dinero pagado a los trabajadores que participan en el proceso de elaboración de los productos o prestación de los servicios.
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .col-lg-2.lg-0
-        img.mx-5(src='@/assets/curso/images/tema4/ico_6_1.svg', alt='', style="width:130px; display:block; margin:auto 0 ;")
+        img.mx-5(src='@/assets/curso/images/tema4/ico_6_1.svg', alt='', style="width:100px; display:block; margin:auto 0 ;")
       .col-lg-10.lg-0
         p.mb-0 <b>Costos de producción y/o prestación de servicios:</b> este último es de suma importancia ya que requiere de la experticia para determinar todos los demás cargos fijos o variables en los que se incurre en el proceso de producción y en el de prestación de servicios, que sumados a los dos anteriores dan como resultado el costo total.
 
@@ -194,24 +209,30 @@
             .col-lg-4.lg-0
               img(src='@/assets/curso/images/tema4/img_3.png')
             .col-lg-8.lg-0
-              ul.lista-ul(style="position:relative")
-                li(data-aos="fade-up")
-                  p.mb-0 #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] Gastos de personal administrativo, asistencia, contabilidad, servicios generales y otros.
+              ul.lista-ul--color
+                li
+                  i.vineta(data-aos="fade-up") 
+                  p.mb-0  Gastos de personal administrativo, asistencia, contabilidad, servicios generales y otros.
 
-                li(data-aos="fade-up")
-                  p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] Gastos legales.
+                li
+                  i.vineta(data-aos="fade-up") 
+                  p.mb-0 Gastos legales.
 
-                li(data-aos="fade-up")
-                  p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] Seguros.
+                li
+                  i.vineta(data-aos="fade-up") 
+                  p.mb-0  Seguros.
       
-                li(data-aos="fade-up")
-                  p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] Servicios públicos.
+                li
+                  i.vineta(data-aos="fade-up") 
+                  p.mb-0  Servicios públicos.
       
-                li(data-aos="fade-up")
-                  p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] Mantenimiento y reparaciones.
-     
-                li(data-aos="fade-up")
-                  p.mb-0 #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] Gastos de viaje.
+                li
+                  i.vineta(data-aos="fade-up") 
+                  p.mb-0  Mantenimiento y reparaciones.
+
+                li
+                  i.vineta(data-aos="fade-up") 
+                  p.mb-0  Gastos de viaje.
 
         p.my-4 <b>Gastos en ventas:</b> relacionados con la distribución, almacenaje, expendio y gastos de personal de ventas, publicidad, arrendamientos (locales de ventas), servicios públicos.
 
@@ -220,15 +241,18 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.lg-0(data-aos="fade-right")
         .jumbotron-7.px-4.py-4
-          ul.lista-ul(style="position:relative")
-            li(data-aos="fade-up")
-              p.mb-0 #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] Fijar el precio de venta. 
+          ul.lista-ul--color
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0 Fijar el precio de venta. 
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] Tomar decisiones para que el producto o servicio sean rentables.
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0  Tomar decisiones para que el producto o servicio sean rentables.
 
-            li(data-aos="fade-up")
-              p.mb-0  #[i.fas.fa-paper-plane(style="color:#EB6F2D;border: 1px red solid;border-radius:50%;padding:.2rem;font-size:10px;")] Poder establecer presupuestos y controlar los costos.
+            li
+              i.vineta(data-aos="fade-up") 
+              p.mb-0  Poder establecer presupuestos y controlar los costos.
       .col-lg-2.lg-0(data-aos="fade-left")
         img(src='@/assets/curso/images/tema4/img_4.svg')
     
