@@ -7,6 +7,7 @@
         span 2
       h1 La guianza como un servicio 
 
+    p.mb-3  El guía de turismo desde el ámbito contable es una empresa unipersonal que presta un servicio, es decir sus usuarios no adquieren nada físico, ni duradero, sino un derecho de uso o disfrute de una experiencia, por un tiempo determinado. De la misma manera ocurre en un restaurante, una vez el cliente ha gastado su dinero no tiene la posibilidad de mostrar físicamente lo que ha obtenido, ya que lo que ha recibido es atención, bienestar, instalaciones, alimentos, experiencia, de esta manera es importante comprender: 
     
     .row.justify-content-center.align-items-star.mb-3
       .col-lg-12

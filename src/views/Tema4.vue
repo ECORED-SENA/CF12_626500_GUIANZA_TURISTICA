@@ -249,7 +249,7 @@
                     .col-lg-2
                       img.mx-1(src="@/assets/curso/images/tema4/ico_7.svg",  alt='', style="width:80px; display:block; margin:auto 0 ;").mb-3
                     .col.mb-3.mb-sm-0
-                      p.mb-1 A continuación, se muestran algunos ejemplos de clasificación para ver la diferencia entre costo y gasto en la labor como guía de turismo. Ver Anexo_ejemplos de clasificación para el costo y gasto.
+                      p.mb-1 A continuación, se muestran algunos ejemplos de clasificación para ver la diferencia entre costo y gasto en la labor como guía de turismo
                     .col-md-auto
                       a.boton(:href="obtenerLink('downloads/OKEst_Anexo_ejemplos_de_clasificación_para_el_costo_y_gasto.pdf')" target="_blank")
                         span Descargar
@@ -376,6 +376,8 @@
                 td Subtotal Sumatoria costo y gastos variable
                 td.th-3  
                 td.th-3 1´850,000
+
+
          
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-up")
       .col-lg-8.lg-0
@@ -387,6 +389,14 @@
             .col-lg-10(data-aos="fade-right")
               p.mb-2 Costos totales mensuales según este ejemplo = Σ costos y gastos fijos + Σ costos y gastos variables
               p.text-center   3.400.000  = 1.375.000  + 2.025.000
+
+    
+    p.mb-3 Este cálculo mensual es la base que al dividirla en 30 resulta el costo diario y hasta puede calcular la base para su servicio por horas.
+
+    p.mb-3 La ganancia es el excedente económico que se espera de la prestación del servicio. Luego de calcular los costos de producción y mercadeo, se agrega el margen de ganancia, que desean obtener en cada servicio. 
+
+    p.mb-3   El costo de equipos, indumentario y su mantenimiento de calcula anual y luego se divide en los 12 meses para obtener un aproximado.
+    p.mb-5 Para calcularlo debe proyectar cuáles son sus ingresos o determinar un deseado de ingresos.
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-up")
       .col-lg-10.lg-0
@@ -567,7 +577,7 @@
             .col-5.col-lg-8.mb-4.mb-lg-0
               img.mt-3(src='@/assets/curso/images/tema4/ico_11.svg').mb-3
               h4.mb-4.text-center Ciclo de vida.
-
+    
 
       .col-lg-3
         .jumbotron-10.p-5.mb-3
@@ -596,6 +606,7 @@
       .col-lg-4.bg-color-2.px-5.py-4
         .h4.mb-0.m-top-3 Ciclo de vida
 
+    p.mb-3   Los servicios que se presentan en el turismo presentan algunos elementos que llevan a desarrollarse a través de diferentes fases, es por ello que según Milio Balanzá, (2004), los ciclos de vida del servicio o fases que pasa un servicio en el mercado turístico son unas estrategias para la fijación de tarifa, para ello se puede observar: 
 
     .row.align-items-star.justify-content-center.mb-5(data-aos="zoom-in-down")
       .col-lg-12
@@ -642,7 +653,7 @@
                 figure
                   img(src='@/assets/curso/images/tema4/img_12.png', alt='Texto que describa la imagen')
 
-          .py-3.py-md-4.color-tab.p-4.m-top-4(titulo="Fase de madurez")
+          .py-3.py-md-4.color-tab.p-4.m-top-4(titulo="Fase de declive")
             .row
               .col-md-6.mb-4.mb-md-0
                 h4 Fase de declive
@@ -663,10 +674,10 @@
         img.mt-3(src='@/assets/curso/images/tema4/img_14.svg')
       .col-lg-7(data-aos="fade-left")
         LineaTiempoD.color-secundario.especial
-          .row(titulo='Cuandos' numero='1')
+          .row(titulo='Cuando' numero='1')
             .row.align-items-center
               .col-lg-12
-                p.mb-0 Depende del acuerdo previo con el contratante hay un recargo en servicios en horarios nocturnos. Por ejemplo, desde la 6 pm hasta más de las 10 pm- 5 horas aproximadamente se denomina como night tour o tour nocturno y tiene un recargo sumado a un rubro que se le debe proporcionar al guía para el transporte a su casa o alojamiento.
+                p.mb-0 Depende del acuerdo previo con el contratante hay un recargo en servicios en horarios nocturnos. Por ejemplo, desde la 6 pm hasta más de las 10 pm- 5 horas aproximadamente se denomina como #[em night tour] o tour nocturno y tiene un recargo sumado a un rubro que se le debe proporcionar al guía para el transporte a su casa o alojamiento.
           .row.color-custom-10(titulo='Número de usuarios.' numero='2')
             .row.align-items-center
               .col-lg-12
