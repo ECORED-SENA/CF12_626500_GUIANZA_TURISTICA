@@ -288,7 +288,7 @@
           .col-lg-12
             .titulo-sexto.color-acento-contenido
               h5 Figura 4.
-              span <i>Análisis desde el punto de vista económico para determinar tarifa</i>
+              span <i>Costo y gastos fijo y variables en la guianza</i>
 
 
     .row.justify-content-center.align-items-center.mb-2
@@ -401,6 +401,8 @@
                 td.th-3  
                 td.th-3 1´850,000
 
+    p.mb-3   El costo de equipos, indumentario y su mantenimiento de calcula anual y luego se divide en los 12 meses para obtener un aproximado.
+    p.mb-5 Para calcularlo debe proyectar cuáles son sus ingresos o determinar un deseado de ingresos.
 
          
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-up")
@@ -419,9 +421,7 @@
 
     p.mb-3 La ganancia es el excedente económico que se espera de la prestación del servicio. Luego de calcular los costos de producción y mercadeo, se agrega el margen de ganancia, que desean obtener en cada servicio. 
 
-    p.mb-3   El costo de equipos, indumentario y su mantenimiento de calcula anual y luego se divide en los 12 meses para obtener un aproximado.
-    p.mb-5 Para calcularlo debe proyectar cuáles son sus ingresos o determinar un deseado de ingresos.
-
+   
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-up")
       .col-lg-10.lg-0
         .jumbotron-9.p-5.mb-3
