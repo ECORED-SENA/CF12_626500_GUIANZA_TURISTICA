@@ -15,7 +15,7 @@
           .row.justify-content-center.align-items-center
             .col-5.col-lg-2(data-aos="fade-left")
               figure
-                img(src='@/assets/curso/images/tema3/ico_1.svg' alt='', style="width:100px; display:block; margin:auto 0;").mb-3
+                img(src='@/assets/curso/images/tema3/ico_1.svg').mb-3
             .col-lg-10(data-aos="fade-right")
               p.mb-3 <b>¿Qué es un presupuesto?</b>
 
@@ -30,27 +30,27 @@
         .tarjeta-avatar
           img(src='@/assets/curso/images/tema3/ico_2.svg',  alt='', style="width:130px; display:block; margin:auto 0 ;")
           .tarjeta.color-custom-7
-            .p-5
+            .p-3
               p.text-center.mb-5 Enumerar todas las actividades que se van a realizar y puedan requerir de recursos.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/images/tema3/ico_3.svg',  alt='', style="width:130px; display:block; margin:auto 0 ;")
           .tarjeta.color-custom-7
-            .p-5
+            .p-3
               p.text-center.mb-4 Describir de forma detallada los recursos necesarios para cada actividad, incluyendo materiales, equipos y recursos humanos.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/images/tema3/ico_4.svg',  alt='', style="width:130px; display:block; margin:auto 0 ;")
-          .tarjeta.color-custom-7
-            .p-3            
-              p.text-center.my-5  Clasificar los requerimientos por rubros, agrupándolos por categorías.
+          .tarjeta.color-custom-7.p-1
+            .p-2           
+              p.text-center.mb-4 Clasificar los requerimientos por rubros, agrupándolos por categorías.
               br
 
     p.mb-3 En el caso del tercer grupo de actividades, se pueden tener en cuenta, las siguientes:
 
     .row.justify-content-center.align-items-center.fondo-3.mb-3
-      .col-lg-4.lg-0
+      .col-6.col-lg-4.lg-0
         img(src='@/assets/curso/images/tema3/img_1.png'  alt='')
       .col-lg-6.lg-0
         ul.lista-ul--color.mt-3
@@ -80,7 +80,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12
-        .table_overflow
+        .tabla-a.color-acento-botones.mb-5
           table(style="min-width:1042px;").tg
             thead
               tr.th-1
@@ -97,7 +97,7 @@
                   span(style='background-color:#D9D9D9') 
                 td.text-center.text-white.tg-0lax(rowspan='2')
                   span(style='background-color:#D9D9D9')                   
-                  span(style='color:black') Unidades escripción/fecha de gasto
+                  span(style='color:black') Unidades escripción <br>/fecha de gasto
                   span(style='background-color:#D9D9D9') 
                 td.text-center.text-white.tg-0lax(rowspan='2')(colspan='2')
                   span(style='background-color:#D9D9D9')                   
@@ -230,7 +230,7 @@
       .col-lg-12.lg-0
         .cajon.color-custom-2.p-4.mb-3
           .row.justify-content-center.align-items-center
-            .col-5.col-lg-1(data-aos="fade-left")
+            .col-3.col-lg-1(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/images/tema3/ico_5.svg').mb-3
             .col-lg-11(data-aos="fade-right")
