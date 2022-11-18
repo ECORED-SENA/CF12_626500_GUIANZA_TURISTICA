@@ -34,10 +34,10 @@
       .row.m-4.align-items-center.justify-content-between
         .col-lg-9(data-aos="fade-right")
           .bloque-texto-a__texto.p-5.my-5
-            p.mb-0 La guianza como servicio turístico, se compone de actividades identificables, intangibles y perecederas donde el recurso humano es el principal factor, que realiza la venta de información o la realización de alguna actividad física o administrativa a favor del cliente.  El objeto principal es satisfacer las necesidades o deseos de los usuarios. El producto final se resume en un reporte, donde el costo del papel es insignificante en comparación al valor agregado que tiene intrínsecamente la información que contiene (Choy Zevallos E. 2012).
+            p.mb-0 La guianza como servicio turístico, se compone de actividades identificables, intangibles y perecederas donde el recurso humano es el principal factor, que realiza la venta de información o la realización de alguna actividad física o administrativa a favor del cliente.  El objeto principal es satisfacer las necesidades o deseos de los usuarios. El producto final se resume en un reporte, donde el costo del papel es insignificante en comparación al valor agregado que tiene intrínsecamente la información que contiene (Choy Zevallos E. 2012)
         .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
-          figure
-            img(src='@/assets/curso/images/tema2/img_3.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+            figure
+              img(src='@/assets/curso/images/tema2/img_3.png' alt='', style="width:400px; display:block; margin:-2rem 5rem ;").mb-3
 
     p.mb-5 En la legislación colombiana las principales funciones del guía por la que devenga ingresos son:
 
@@ -66,6 +66,7 @@
 
     p.mb-5 Para ejecutar el servicio, los alcances de la función de conducción que tiene el guía se ramifican a la administración de recursos del contratante y los propios.  Como lo describe la normatividad el guía debe prestar su servicio de manera eficiente, es decir, debe tener la capacidad de disponer de los recursos humanos, financieros y físicos para conseguir la satisfacción de los usuarios y el contratante frente al servicio guiado. 
 
+  .container.bg-white.px-md-5.px-3.py-2.container-top.fondo-6.m-top.mb-0.cs
     .row.justify-content-center.align-items-star.mb-5
       .col-lg-6.lg-0
         img(src='@/assets/curso/images/tema2/img_5.png'  alt='')
@@ -114,7 +115,7 @@
           .col-lg-12
             .jumbotron-14.p-2
               p.mb-0 Nota. Imagen tomada del Viceministerio de turismo de Colombia (s.f.). 
-
+  .container.bg-white.p-md-5.p-4.container-bottom.mt-0.cs.mb-5 
 
 
 

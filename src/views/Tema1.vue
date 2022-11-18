@@ -11,7 +11,7 @@
       .col-lg-12(data-aos="fade-right")
           p.mb-3 El mercado en la actualidad abarca los intereses y necesidades de la población, atendiendo en su beneficio y posibilidades que se ofrece, de esta manera para la OMT (1998) citado por González Molina (2016) el mercado como punto de confluencia de factores de las relaciones económicas se compone por elementos para su estudio y comprensión: 
 
-    .row.justify-content-center.align-items-star.fondo-1.mb-3
+    .row.justify-content-center.align-items-star.fondo-1.mb-0
       .col-6.col-lg-3.mb-3(data-aos="fade-right")
         img(src='@/assets/curso/images/tema1/img_1.png'  alt='')
       .col-lg-9(data-aos="fade-left") 
@@ -68,7 +68,7 @@
 
     p.mb-3 Otro factor a tener en cuenta, es el de la clasificación,  como lo explica González Molina (2016), la demanda turística se divide en cuatro grandes grupos: 
 
-  .container.bg-white.px-md-5.px-3.py-2.container-top.fondo-2.m-top.mb-0.cs
+  .container.bg-white.px-md-5.px-3.py-2.container-top.m-top.mb-0.cs
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left") 
       .col-12.col-md-8.col-lg-12.col-xl-12.mb-4
         ImagenInfografica.color-acento-contenido.mb-3
@@ -80,26 +80,26 @@
             .row.justify-content-center.align-items-center
               .col-lg-12.col-sm-8.mb-lg-0
                 h4.mb-2 La demanda diferida:
-                p.mb-0 Es aquélla que no ha podido viajar por motivos del entorno (catástrofes, terrorismo, pandemias, entre otros) o de la oferta disponible (no existen plazas de alojamiento, por ejemplo). 
+                  p.mb-0 Es aquélla que no ha podido viajar por motivos del entorno (catástrofes, terrorismo, pandemias, entre otros) o de la oferta disponible (no existen plazas de alojamiento, por ejemplo). 
 
           .tarjeta-blanca.p-3(x="24%" y="56%" numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-12.mb-4.col-sm-8.mb-lg-0
                 h4.mb-2 La demanda potencial: 
-                p.mt-2 Es decir, personas que viajarán cuando sus circunstancias personales mejoren. 
+                  p.mt-2 Es decir, personas que viajarán cuando sus circunstancias personales mejoren. 
 
             
           .tarjeta-blanca.p-3(x="73%" y="75%" numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-12.mb-4.col-sm-8.mb-lg-0      
                 h4.mb-2 La demanda no efectiva: 
-                p.mb-0 Sector de población que no viaja por algún motivo. 
+                  p.mb-0 Sector de población que no viaja por algún motivo. 
 
           .tarjeta-blanca.p-3(x="47%" y="8%" numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-12.mb-4.col-sm-8.mb-lg-0
                 h4.mb-2 La demanda efectiva:
-                p.mt-2 Número actual de personas que participan en la actividad turística, es decir, que efectivamente viajan. Este grupo es el que se analiza y se mide en las estadísticas. 
+                  p.mt-2 Número actual de personas que participan en la actividad turística, es decir, que efectivamente viajan. Este grupo es el que se analiza y se mide en las estadísticas. 
   .container.bg-white.p-md-5.p-4.container-bottom.mt-0.cs.mb-5 
     .row.justify-content-center.align-items-star.mb-5
       .col-lg-12(data-aos="fade-left") 

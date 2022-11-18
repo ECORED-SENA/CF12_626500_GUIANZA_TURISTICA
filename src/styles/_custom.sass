@@ -108,6 +108,26 @@
   @media (max-width: 992px)
     right: -1% !important
 
+.linea-tiempo-d__item__content__title 
+  cursor: pointer
+  font-size: 18px
+
+.col-lg-3 
+  flex: 0 0 auto
+  width: 22%
+  @media (max-width: 412px)
+    margin-left: -75px !important
+    width: 300px
+  @media (max-width: $bp-max-md) 
+    margin-left: -75px !important
+    width: 300px
+  @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+    height: 100% !important
+
+.bg-color16
+  background-color: #B7CEAC
+  
+
 .container-top
   border-radius: 5px 5px 5px 5px
 
@@ -186,6 +206,11 @@
     margin-top: 80px !important
     margin-bottom: 30px !important
 
+.fondo-6
+  background-image: url('../assets/curso/images/tema2/back_fig.svg')
+  background-size: cover
+  background-repeat: no-repeat
+
 .jumbotron
   background-color: #B7CEAC
 
@@ -224,6 +249,13 @@
   
 .jumbotron-10
   background-color: #B7CEAC
+  height: auto
+  @media (max-width: 412px)
+    height: 300px !important
+  @media (max-width: $bp-max-md) 
+    height: 300px !important
+  @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+    height: 100% !important
 
 .jumbotron-11
   background-color: #E3EAE1
@@ -259,7 +291,8 @@
   box-shadow: 2px 4px 8px #cdcdcd
   @media (max-width: 412px)
     width: 180px
-    margin-left: -40px
+    margin-left: 60px
+
 
 .jumbotron-16
   background-color: #B7CEAC
@@ -287,9 +320,15 @@
   background-color: #FFFFFF
   border-radius: 20px
   box-shadow: 2px 4px 8px #cdcdcd
+  height: 100px
   @media (max-width: 412px)
-    width: 180px
-    margin-left: 40px
+    width: 200px !important
+  @media (max-width: $bp-max-md) 
+    margin-left: 70px
+    height: auto !important
+  @media (min-width: $bp-min-lg) and (max-width: $bp-max-xl)
+    height: 100% !important
+
 
 .jumbotrom-x
   @media (max-width: 992px)
@@ -327,6 +366,12 @@
 .mg-top-3
   margin-bottom: 150px !important
 
+.txt-f1
+  text-align: left !important
+
+.txt-l1
+  border-bottom: 1px solid #DC753F
+
 .tabs-c.color-primario .tabs-c__tab--active 
   border-bottom-color: #EB6F2D !important
 
@@ -351,29 +396,28 @@
   @media (max-width: 390px)
     margin-left: -5px !important
 
+
 .tarjeta-blanca
   background-color: #F6F6F6
   border-top-left-radius: 15px
   border-top-right-radius: 15px
   border-bottom-right-radius: 15px
   border-bottom-left-radius: 15px
-  width: 100% !important
-  background-size: contain !important
-  background-repeat: no-repeat
+  width: auto !important
+  height: 215px !important
+  background-size: cover !important
   @media (max-width: 992px)
-    background-color: #F5F5F5
-    background-repeat: no-repeat
-    width: 780px !important
-    height: 280px !important
-    margin-left: -300px !important
+    bbackground-size: 100%
+    width: 380px !important
+    height: 255px !important
+    margin-left: -40px !important
+    margin-bottom: -120px !important
   @media (max-width: 768px)
-    background-color: #F5F5F5
-    background-repeat: no-repeat
-    width: 290px !important
-    height: 100% !important
-    margin-left: -200px !important
-    margin-bottom: -100px !important
-    font-size: 14px
+    background-size: 100%
+    width: 380px !important
+    height: 255px !important
+    margin-left: -40px !important
+    margin-bottom: -120px !important
   @media (max-width: 576px)
     background-color: #F5F5F5
     background-repeat: no-repeat
@@ -383,19 +427,48 @@
     margin-left: -100px !important
   @media (max-width: 412px)
     background-color: #F5F5F5
-    background-repeat: no-repeat
-    width: 321px !important
-    height: 180px !important
-    margin-left: -35px !important
+    background-size: 100%
+    width: 300px !important
+    height: 215px !important
+    margin-left: -40px !important
+    margin-bottom: -80px !important
   @media (max-width: 397px)
     background-color: #F5F5F5
-    background-repeat: no-repeat
-    width: 321px !important
-    height: 414px !important
-    margin-left: -35px !important
+    background-size: 100%
+    width: 300px !important
+    height: 215px !important
+    margin-left: -40px !important
+    margin-top: 250px !important
 
 .color-tarjeta-slyder-2
   background-color: #FFECD2
+
+.slyder-a__tipo-b .slyder-a__btn--atrs 
+  @media (max-width: $bp-max-md) 
+    transform: translateY(146%) rotate(90deg) !important
+    left: -10px !important
+  @media (min-width: $bp-min-lg) 
+    transform: translateY(146%) rotate(90deg) !important
+    left: -10px !important
+
+  
+.slyder-a__tipo-b .slyder-a__btn--sigt 
+  @media (max-width: $bp-max-md) 
+    transform: translateY(146%) rotate(-90deg) !important
+    right: -15px !important
+  @media (min-width: $bp-min-lg) 
+    transform: translateY(156%) rotate(270deg) !important
+    left: -10px !important
+
+.slyder-a__bullets 
+  @media (max-width: $bp-max-md) 
+    display: flex
+    z-index: 10000
+    top: 72px
+  @media (min-width: $bp-min-lg) 
+    display: flex
+    z-index: 10000
+    top: 82px
 
 .acordion
   .tarjeta--gris
@@ -415,13 +488,7 @@
   align-items: center
   top: -120px
 
-.slyder-a__tipo-b .slyder-a__btn--atrs 
-  transform: translateY(-50%) rotate(90deg)
-  left: -10px !important
 
-.slyder-a__tipo-b .slyder-a__btn--sigt 
-  transform: translateY(-50%) rotate(-90deg)
-  right: -15px !important
 
 .color-custom-2
 	background-color: #FFE6A1 
@@ -445,6 +512,7 @@
 .color-custom-8
   background-color: #F6F6F6
   box-shadow: 2px 4px 8px #cdcdcd
+ 
 .color-custom-9
   background-color: #FFB338
 
@@ -494,10 +562,27 @@
 .bg-color-2
   background-image: url("../assets/curso/images/tema4/ico.svg") !important
   background-repeat: no-repeat 
+  background-size: contain
+
+.bg-color-3
+  background-image: url("../assets/curso/images/tema4/ico_new.svg") !important
+  background-repeat: no-repeat 
+  background-size: contain
+
+
+.bg-color-4
+  background-image: url("../assets/curso/images/tema4/ico_new_1.svg") !important
+  background-repeat: no-repeat 
+  background-size: contain
 
 .tabs-a__tab:hover, .tabs-a.color-acento-contenido .tabs-a__tab:active, .tabs-a.color-acento-contenido .tabs-a__tab:focus 
   background-color: #EB6F2D
   color: #fff !important
+
+.tabs-a__tab__selected 
+  background-color: #EB6F2D
+  color: #fff !important
+
 
 .color-text
   color: #EB6F2D

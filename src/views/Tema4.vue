@@ -27,9 +27,13 @@
 
     p.mb-5 El precio o tarifa como se denomina en la guianza, hace referencia a la cantidad de dinero que el cliente está dispuesto a pagar por un producto o servicio determinado. Los criterios para aplicar tarifas reducidas, lo mismo que para aplicar tarifas altas y cuándo hacerlo, han de formar parte de la política del servicio del guía.
 
-    .row.mb-3.ps-2(data-aos="zoom-in-down")
-      .col-lg-4.bg-color-2.px-4.py-4
-        .h4.mb-0.m-top-3.mx-3 Pronóstico de ventas en la guianza
+    .row.align-items-center.mb-4
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/images/tema4/img_3.svg')
+      .col
+        h4.mb-0 #[b.txt-l1 Pronóstico de ventas en la guianza]
+
 
     .row.justify-content-center.align-items-star.mb-3
       .col-lg-6.lg-0(data-aos="fade-right")
@@ -122,13 +126,16 @@
 
     p.mb-5 Luego determinar los insumos necesarios para prestar el servicio tales como el tiempo que debe disponer el guía, otro importante aspecto de la autonomía para la proyección económica de la actividad como guía es determinar la tarifa del servicio guiado
 
-    .row.mb-3.ps-2(data-aos="zoom-in-down")
-      .col-lg-4.bg-color-2.px-4.py-4
-        .h4.mb-0.m-top-3.mx-2 Criterios para fijar una tarifa
+    .row.align-items-center.mb-4
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/images/tema4/img_3.svg')
+      .col
+        h4.mb-0 #[b.txt-l1 Criterios para fijar una tarifa]
 
     p.mb-3 Los criterios para conocer cómo se fija la tarifa están en función de los costos y gastos, es decir, la suma de costos y gastos fijos y variables que se requieran para poner en marcha el servicio y a partir de ahí, determinar el margen que se quiere tener de ganancia (ver figura 3). 
 
-    .row.align-items-center.justify-content-center.p-4
+    .row.align-items-center.justify-content-center
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
           h5 Figura 3.
@@ -137,9 +144,12 @@
 
     p.mb-5 A continuación, se disgregan los componentes de las fórmulas descritas en la imagen.
 
-    .row.mb-3.ps-2(data-aos="zoom-in-down")
-      .col-lg-4.bg-color-2.px-4.py-4
-        .h4.mb-0.m-top-3.mx-3 Clasificación de costos y gastos 
+    .row.align-items-center.mb-4
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/images/tema4/img_3.svg')
+      .col
+        h4.mb-0 #[b.txt-l1 Clasificación de costos y gastos ]
 
     p.mb-3 Costos y gastos son dos conceptos clave a la hora de establecer cuánto dinero realmente requiero para prestar un servicio, como lo menciona la fórmula anterior, ayuda a establecer el costo total del servicio.  Si bien ambos conceptos significan erogaciones o salidas de dinero, los dos tienen naturalezas distintas. 
 
@@ -147,10 +157,10 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="fade")
-        .jumbotron-5.p-1
-          .row.justify-content-center.align-items-center.mb-3.ps-2(data-aos="zoom-in-down")
-            .col-lg-10.bg-color-1.p-1
-              p.mb-0.text-center.mt-2 Desembolsos = Erogaciones = Salidas de dinero
+        .jumbotron-5.p-3
+          .row.justify-content-center.align-items-center(data-aos="zoom-in-down")
+            .col-lg-10.bg-color-1
+              p.mb-0.text-center Desembolsos = Erogaciones = Salidas de dinero
 
     p.mb-3 Los costos pueden dividirse en:
 
@@ -193,10 +203,10 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="fade")
-        .jumbotron-5.p-1
-          .row.justify-content-center.align-items-center.mb-3.ps-2(data-aos="zoom-in-down")
-            .col-lg-10.bg-color-1.p-1
-              p.mb-0.text-center.mt-1 Costo total = Materia Prima + Mano de obra + Otros costos de producción
+        .jumbotron-5.p-3
+          .row.justify-content-center.align-items-center(data-aos="zoom-in-down")
+            .col-lg-10.bg-color-1
+              p.mb-0.text-center Costo total = Materia Prima + Mano de obra + Otros costos de producción
 
 
     p.mb-3 De otra parte, se entiende como gasto al conjunto de erogaciones destinadas a la distribución o venta del producto, a la administración e incluso al mantenimiento de los equipos. A su vez este rubro se divide en:
@@ -262,13 +272,12 @@
       .col-lg-10.lg-0
         p.mb-3 Para calcular los costos y gastos de un servicio guiado es necesario que la información sea confiable y rigurosa. Un costo mal calculado puede causar pérdidas en la operación de cualquier ente económico ya sea una empresa, una pyme, un contratista o freelance.
 
-        p.mb-3 Para calcular los costos y gastos de un servicio guiado es necesario que la información sea confiable y rigurosa. Un costo mal calculado puede causar pérdidas en la operación de cualquier ente económico ya sea una empresa, una pyme, un contratista o freelance.
 
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-10.lg-0
         .row.align-items-center.aling
           .col-lg-12(data-aos="zoom-in-down")
-            .tarjeta.color-custom-9.p-4.mb-5
+            .tarjeta.color-custom-9.p-4.mb-3
               .row.justify-content-center.align-items-center
                 .col
                   .row.justify-content-between.align-items-center
@@ -447,30 +456,30 @@
     p.mb-0 Retomando el concepto de la guianza como un servicio turístico perecedero, se debe tener en cuenta que en la planeación de la tarifa debe pensar en un rubro para garantizar el éxito del servicio guiado en caso de encontrarse con condiciones adversas, por ello se recomienda calcular un porcentaje para imprevistos que puede ser del 10%. Este es otro factor que puede ayudar a determinar cuál sería el margen ideal de ganancia (ver tabla 3).
 
 
-    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-up")
+    .row.justify-content-center.align-items-center(data-aos="fade-up")
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Tabla 3. 
           span #[em Ejemplo de cálculo de imprevisto]
 
-    .row.justify-content-center.align-items-center
-      .col-lg-2.lg-0
-        img.mt-1(src='@/assets/curso/images/tema4/img_6.svg'  alt='')
+    .row.justify-content-center.align-items-center.m-top-4
+      .col-lg-3.lg-0
+        img.mt-4.mx-5(src='@/assets/curso/images/tema4/img_6.svg',  alt='', style="width:210px; display:block; margin:auto 0 ;").mb-3
       .col-lg-8.lg-0
         .tabla-a.color-acento-contenido.mt-2
           table
             tbody
               tr
-                td(width='75').text-center.text-white.th-5  Tarifa potencial (suma de costos y gastos fijos y variables + margen de ganancia)
+                td(width='75').text-white.th-5  <b>Tarifa potencial (suma de costos y gastos fijos y variables + margen de ganancia)</b>
 
                 td(width='25').th-6 4.080.000
 
               tr
-                td(width='15').text-center.text-white.th-5   Imprevisto (10% sobre tarifa potencial)
+                td(width='15').text-white.th-5   <b>Imprevisto (10% sobre tarifa potencial)</b>
                 td(width='85').th-6  408.000
 
               tr
-                td(width='15').text-center.text-white.th-5   Subtotal 
+                td(width='15').text-white.th-5   <b>Subtotal </b>
                 td(width='85').th-6 4.488.000
 
     .row.justify-content-center.align-items-center
@@ -483,16 +492,16 @@
           .jumbotron-16
             .row.justify-content-center.align-items-center
               .col-5.col-lg-12.px-5(data-aos="fade-left")
-                p.mt-5 Por ejemplo, luego de determinar su tarifa potencial y sumar los imprevistos tiene su base de cotización. Para calcular la cotización debe calcular el 40% y de este aplicar el *12,5% de salud, el 16% de pensión y 1,044 de ARL
+                p.mt-5.mb-2 Por ejemplo, luego de determinar su tarifa potencial y sumar los imprevistos tiene su base de cotización. <br> Para calcular la cotización debe calcular el 40% y de este aplicar el *12,5% de salud, el 16% de pensión y 1,044 de ARL
                 .row.justify-content-center.align-items-center
                   .col-12.col-lg-9
-                    .jumbotron-15.p-2
+                    .jumbotron-15.p-2.mb-1
                       p.mb-0.text-center Cotización seguridad social= ((Tarifa potencial + imprevistos) *40%) * (12.5%+16%+1.044%)
                       p.mb-0.text-center Cotización seguridad social   = (4.488.000*40%) * 29,544%
                       p.mb-0.text-center 530.374   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; = 1.795.200   &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* 29,544%
 
-                  .col-lg-3.mb-3.mb
-                    img.mt-4(src="@/assets/curso/images/tema4/img_7.svg" data-aos="fade-right" style="display:inline;position:relative;max-width:290px;")
+                  .col-lg-3.mb-3
+                    img.mt-5(src="@/assets/curso/images/tema4/img_7.svg" data-aos="fade-right" style="display:inline;position:relative;max-width:290px;")
 
 
     .row.d-block.d-lg-none
@@ -573,19 +582,19 @@
       .col-lg-10(data-aos="zoom-in-down")
         .jumbotron-17.p-5
           .row.justify-content-center.align-items-center.mb-3
-            .col-lg-3
-              .jumbotron-19.p-3
-                p.mb-4 <b>Σ Costos  y gastos fijos </b>
+            .col-lg-3.lg-0
+              .jumbotron-19.p-3.mb-4
+                p.mb-0.text-center <b>Σ Costos  y gastos fijos </b>
             .col-2.col-lg-1
               img(src='@/assets/curso/images/tema4/flecha.svg'  alt='')
-            .col-lg-3 
-              .jumbotron-19.p-3
-                p.mb-4 <b> Tarifa para cada servicio </b>
+            .col-lg-3.lg-0 
+              .jumbotron-19.p-3.mb-4
+                p.mb-0.text-center <b> Tarifa para cada servicio </b>
             .col-2.col-lg-1
               img(src='@/assets/curso/images/tema4/flecha.svg'  alt='')
-            .col-lg-3 
-              .jumbotron-19.p-3
-                p.mb-0 <b>Costos variables en cada servicio guiado </b>
+            .col-lg-3.lg-0 
+              .jumbotron-19.p-3.mb-4
+                p.mb-0.text-center <b>Costos variables en cada servicio guiado </b>
           .jumbotron-19.p-3
             p.mb-0 <b>La fórmula que se aplica para hallar el punto de equilibrio es el siguiente:</b>
             p.mb-0 PE= Σ costos y gastos fijos / Tarifa deseada por cada servicio - (De cada servicio costos y gastos variables)
@@ -603,7 +612,7 @@
                     .col-lg-2
                       img.mx-1(src="@/assets/curso/images/tema4/ico_7.svg",  alt='', style="width:80px; display:block; margin:auto 0 ;").mb-3
                     .col.mb-3.mb-sm-0
-                      p.mb-1 Finalmente existen alternativas de cómo hacer una adecuada gestión del dinero, lo que permite proyectar gastos y demandas, por ello se puede ingresar al Manual del alumno educación financiera.
+                      p.mb-0 Finalmente existen alternativas de cómo hacer una adecuada gestión del dinero, lo que permite proyectar gastos y demandas, por ello se puede ingresar al Manual del alumno educación financiera.
                     .col-md-auto
                       a.boton(:href="obtenerLink('downloads/wcms_734537.pdf')" target="_blank")
                         span Descargar
@@ -618,42 +627,48 @@
 
     p.mb-5 Desde la planeación estratégica del guía como empresa unipersonal para mantenerse en el mercado se debe tener en cuenta características del servicio como: 
 
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-10.col-md-7.col-lg.m-1.m-lg-3.bg-color16
+        .p-4
+          .row.justify-content-center.mb-5
+            .col-8
+              figure
+                img(src='@/assets/curso/images/tema4/ico_11.svg')
+          h4.text-center Ciclo de vida.
 
-    .row.align-items-star.justify-content-center.mb-5(data-aos="zoom-in-down")
-      .col-6.col-lg-3.mb-3
-        .jumbotron-10.p-5
-          .row.justify-content-center.align-items-center
-            .col-5.col-lg-8.mb-4.mb-lg-0
-              img.mt-3(src='@/assets/curso/images/tema4/ico_11.svg').mb-3
-              h4.mb-4.text-center Ciclo de vida.
-    
+      .col-10.col-md-7.col-lg.m-1.m-lg-3.bg-color16
+        .p-4
+          .row.justify-content-center.mb-5
+            .col-8
+              figure
+                img(src='@/assets/curso/images/tema4/ico_12.svg')
+          h4.text-center Cobertura.
 
-      .col-6.col-lg-3
-        .jumbotron-10.p-5.mb-3
-          .row.justify-content-center.align-items-center
-            .col-5.col-lg-8.mb-4.mb-lg-0
-              img.mt-2(src='@/assets/curso/images/tema4/ico_12.svg').mb-3
-              h4.text-center.mb-5 Cobertura.
+      .col-10.col-md-7.col-lg.m-1.m-lg-3.bg-color16
+        .p-4
+          .row.justify-content-center.mb-5
+            .col-8
+              figure
+                img.mt-3(src='@/assets/curso/images/tema4/ico_13.svg')
+          h4.text-center Gastos de manutención.
+        
+
+      .col-10.col-md-7.col-lg.m-1.m-lg-3.bg-color16
+        .p-4
+          .row.justify-content-center.mb-5
+            .col-8
+              figure
+                img.mt-3(src='@/assets/curso/images/tema4/ico_14.svg')
+          h4.mb-5.text-center Comisiones.
+      
+      
  
-
-      .col-6.col-lg-3.mb-3
-        .jumbotron-10.p-5
-          .row.justify-content-center.align-items-center
-            .col-5.col-lg-8.mb-4.mb-lg-0
-              img.mt-3(src='@/assets/curso/images/tema4/ico_13.svg').mb-3
-              h4.mb-1.text-center Gastos de manutención.
-           
-
-      .col-6.col-lg-3
-        .jumbotron-10.p-5
-          .row.justify-content-center.align-items-center
-            .col-5.col-lg-8.mb-4.mb-lg-0
-              img.mt-3(src='@/assets/curso/images/tema4/ico_14.svg').mb-3
-              h4.mb-5.text-center Comisiones.
-          
-    .row.mb-3.ps-2(data-aos="zoom-in-down")
-      .col-lg-4.bg-color-2.px-4.py-4
-        .h4.mb-0.m-top-3.mx-3 Ciclo de vida
+    .row.align-items-center.mb-4
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/images/tema4/img_3.svg')
+      .col
+        h4.mb-0 #[b.txt-l1 Ciclo de vida]
 
     p.mb-3   Los servicios que se presentan en el turismo presentan algunos elementos que llevan a desarrollarse a través de diferentes fases, es por ello que según Milio Balanzá, (2004), los ciclos de vida del servicio o fases que pasa un servicio en el mercado turístico son unas estrategias para la fijación de tarifa, para ello se puede observar: 
 
@@ -711,10 +726,13 @@
               .col-md-6
                 figure
                   img(src='@/assets/curso/images/tema4/img_13.png', alt='Texto que describa la imagen')
-      
-    .row.mb-3.ps-2(data-aos="zoom-in-down")
-      .col-lg-4.bg-color-2.px-4.py-4
-        .h4.mb-0.m-top-3.mx-3 Cobertura
+    
+    .row.align-items-center.mb-4
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/images/tema4/img_3.svg')
+      .col
+        h4.mb-0 #[b.txt-l1 Cobertura]
 
     p.mb-3 Cuando se presenta el servicio de turismo se hace necesario considerar ciertos aspectos, en los cuales como lo menciona Cabo Nadal (2004), hay elementos trascendentales a la hora de prestar un servicio y acordar una tarifa, entre ellos:
 
@@ -747,9 +765,13 @@
               .col-lg-12
                 p.mb-0 
 
-    .row.mb-3.ps-2(data-aos="zoom-in-down")
-      .col-lg-4.bg-color-2.px-4.py-4
-        .h4.mb-0.m-top-3.mx-3 Gastos de manutención 
+    .row.align-items-center.mb-4
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/images/tema4/img_3.svg')
+      .col
+        h4.mb-0 #[b.txt-l1 Gastos de manutención ]
+
 
     p.mb-3 Otro ingreso del guía que no está dentro de las ganancias, sino hace parte de la operación son los viáticos, este concepto surge cuando el guía a causa de su trabajo se ve en la obligación de comer o dormir fuera de casa (ver figura 6). 
 
@@ -780,9 +802,9 @@
                 .col
                   .row.justify-content-between.align-items-center
                     .col-lg-2
-                      img.mx-1(src="@/assets/curso/images/tema4/ico_7.svg",  alt='', style="width:80px; display:block; margin:auto 0 ;").mb-3
+                      img.mx-1(src="@/assets/curso/images/tema4/ico_7.svg",  alt='', style="width:60px; display:block; margin:auto 0 ;").mb-3
                     .col.mb-3.mb-sm-0
-                      p.mb-1 Tarifas para el servicio guiado en la ciudad de Bogotá
+                      p.mb-0 Tarifas para el servicio guiado en la ciudad de Bogotá
                     .col-md-auto
                       a.boton(:href="obtenerLink('downloads/Tarifas para el servicio guiado en la ciudad de Bogotá.pdf')" target="_blank")
                         span Descargar
@@ -792,10 +814,13 @@
 
     p.mb-5 Tener en cuenta que algunas agencias de viajes ofrecen comisiones a los guías por promocionar otros recorridos o servicios y lograr una venta. Evitar centrarse solo en este aspecto durante el servicio pues se puede incurrir en una aprobación como la siguiente: “...está prohibido coaccionar a los turistas a realizar compras en determinados establecimientos comerciales, respetando las libertades de sus pasajeros y persiguiendo obtener beneficios particulares de la transacción realizada...”
 
-
-    .row.mb-3.ps-2(data-aos="zoom-in-down")
-      .col-lg-4.bg-color-2.px-4.py-4
-        .h4.mb-0.m-top-3.mx-3 Comisiones
+    .row.align-items-center.mb-4
+      .col-auto.pe-0
+        figure
+          img(src='@/assets/curso/images/tema4/img_3.svg')
+      .col
+        h4.mb-0 #[b.txt-l1 Comisiones]
+  
 
     p.mb-5 El guía tiene la oportunidad de ganar dinero con un recurso de llamado comisiones.  Se trata de promocionar y vender de acuerdo con la política empresarial, unos servicio o productos asociados al recorrido ganando un porcentaje acordado del precio de venta.  El pago de la comisión se puede hacer después de la venta del producto o servicio o al final del contrato según negociación.
 
@@ -815,7 +840,7 @@
             p.mb-0 Tener en cuenta que esta no es una actividad que haga parte de la función de un guía, pero en ocasiones puede realizar estas negociaciones con ética y el concepto de calidad del servicio siempre presente
         .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
           figure
-            img(src='@/assets/curso/images/tema4/img_16.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
+            img(src='@/assets/curso/images/tema4/img_16.png' alt='', style="width:400px; display:block; margin:-1rem 5rem ;").mb-3
 
 
 

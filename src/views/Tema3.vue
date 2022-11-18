@@ -15,7 +15,7 @@
           .row.justify-content-center.align-items-center
             .col-5.col-lg-2(data-aos="fade-left")
               figure
-                img(src='@/assets/curso/images/tema3/ico_1.svg').mb-3
+                img(src='@/assets/curso/images/tema3/ico_1.svg',  alt='', style="width:130px; display:block; margin:auto 0 ;").mb-3
             .col-lg-10(data-aos="fade-right")
               p.mb-3 <b>¿Qué es un presupuesto?</b>
 
@@ -235,8 +235,7 @@
                 img(src='@/assets/curso/images/tema3/ico_5.svg').mb-3
             .col-lg-11(data-aos="fade-right")
               p.mb-3 <b>Tener en cuenta:</b>
-
-              p.mb-2 <b>1.</b> El formato de presupuesto debe ir soportado con recibos, facturas, recibos de caja.
+              p.mb-0 <b>1.</b> El formato de presupuesto debe ir soportado con recibos, facturas, recibos de caja.
               p.mb-0 <b>2.</b> El contratante quien provee el dinero, debe dar un comprobante de egreso y en la contabilidad de la empresa debe dejarse constancia del desembolso de pago a terceros, en ningún momento debe ser registrado como parte de los honorarios, para efectos de impuestos que deberá pagar posteriormente el guía.
 
     .row.justify-content-center.align-items-star.mb-3
