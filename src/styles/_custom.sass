@@ -245,7 +245,6 @@
   background-color: #B7CEAC
   border-radius: 20px
   box-shadow: 2px 4px 8px #cdcdcd
-
   
 .jumbotron-10
   background-color: #B7CEAC
@@ -289,10 +288,15 @@
   background-color: #FFFFFF
   border-radius: 20px
   box-shadow: 2px 4px 8px #cdcdcd
-  @media (max-width: 412px)
+  @media (max-width: 992px) 
     width: 180px
-    margin-left: 60px
-
+    margin-left: 125px !important
+  @media (max-width: 768px) 
+    width: 180px
+    margin-left: 25px
+  @media (max-width: $bp-max-md) 
+    width: 180px
+    margin-left: -35px
 
 .jumbotron-16
   background-color: #B7CEAC
@@ -314,7 +318,7 @@
     margin-top: -450px !important
   @media (max-width: 412px)
     background-color: #ffff
-    margin-top: -500px !important
+    margin-top: -200px !important
 
 .jumbotron-19
   background-color: #FFFFFF
@@ -334,27 +338,29 @@
   @media (max-width: 992px)
     background-color: #fff
     background-repeat: no-repeat
-    margin-top: 280px !important
+    margin-top: 580px !important
     margin-left: 25px
   @media (max-width: 768px)
     background-color: #fff
     background-repeat: no-repeat
     margin-top: 1200px !important
     margin-left: 20px !important
+    margin-top: 700px !important
   @media (max-width: 576px)
     background-color: #fff
     background-repeat: no-repeat
     margin-top: 850px !important
     margin-left: 25px
+    margin-top: 530px !important
   @media (max-width: 412px)
     background-color: #fff
     background-repeat: no-repeat 
-    margin-top: 800px !important
+    margin-top: 700px !important
     margin-left: 25px
   @media (max-width: 397px)
     background-color: #fff
     background-repeat: no-repeat 
-    margin-top: 1000px !important
+    margin-top: 950px !important
     margin-left: 25px
 
 .horizontal-scroll
@@ -414,10 +420,10 @@
     margin-bottom: -120px !important
   @media (max-width: 768px)
     background-size: 100%
-    width: 380px !important
-    height: 255px !important
+    width: 400px !important
+    height: 250px !important
     margin-left: -40px !important
-    margin-bottom: -120px !important
+    margin-bottom: -95px !important
   @media (max-width: 576px)
     background-color: #F5F5F5
     background-repeat: no-repeat
@@ -428,9 +434,9 @@
   @media (max-width: 412px)
     background-color: #F5F5F5
     background-size: 100%
-    width: 300px !important
-    height: 215px !important
-    margin-left: -40px !important
+    width: 350px !important
+    height: 220px !important
+    margin-left: -38px !important
     margin-bottom: -80px !important
   @media (max-width: 397px)
     background-color: #F5F5F5
