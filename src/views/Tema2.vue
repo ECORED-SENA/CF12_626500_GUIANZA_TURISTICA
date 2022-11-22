@@ -9,15 +9,21 @@
 
     p.mb-3  El guía de turismo desde el ámbito contable es una empresa unipersonal que presta un servicio, es decir sus usuarios no adquieren nada físico, ni duradero, sino un derecho de uso o disfrute de una experiencia, por un tiempo determinado. De la misma manera ocurre en un restaurante, una vez el cliente ha gastado su dinero no tiene la posibilidad de mostrar físicamente lo que ha obtenido, ya que lo que ha recibido es atención, bienestar, instalaciones, alimentos, experiencia, de esta manera es importante comprender: 
     
-    .row.justify-content-center.align-items-star.mb-3
-      .col-lg-12
-        SlyderA(tipo="b")(data-aos="zoom-in-up")
-          .row.justify-content-center.align-items-center.p-3
-            .col-lg-12
-              img(src="@/assets/curso/images/tema2/img_1_1.svg").mb-3
-          .row.justify-content-center.align-items-star.p-3
-            .col-lg-12
-              img(src="@/assets/curso/images/tema2/img_2_1.svg").mb-3
+    .row.d-none.d-lg-block
+      .row.justify-content-center.align-items-star.mb-3
+        .col-lg-12
+          SlyderA(tipo="b")(data-aos="zoom-in-up")
+            .row.justify-content-center.align-items-center.p-3
+              .col-lg-12
+                img(src="@/assets/curso/images/tema2/img_1_1.svg").mb-3
+            .row.justify-content-center.align-items-star.p-3
+              .col-lg-12
+                img(src="@/assets/curso/images/tema2/img_2_1.svg").mb-3
+    
+    .row.d-block.d-lg-none
+      .row.justify-content-center.align-items-center.p-3
+        .col-lg-12
+          img(src="@/assets/curso/images/tema2/mobile.svg").mb-3
 
     p.mb-3 Los servicios tienen un componente psicológico muy importante, <b>la percepción que el cliente tenga del dinero gastado, va a ser un factor decisivo para que vuelva y se fidelice o no vuelva a tomar su servicio </b>(Milio Balanzá, I. 2004). 
 
