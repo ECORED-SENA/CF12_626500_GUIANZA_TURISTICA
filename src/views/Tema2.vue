@@ -15,15 +15,15 @@
           SlyderA(tipo="b")(data-aos="zoom-in-up")
             .row.justify-content-center.align-items-center.p-3
               .col-lg-12
-                img(src="@/assets/curso/images/tema2/img_1_1.svg").mb-3
+                img(src="@/assets/curso/images/tema2/img_slyder.svg").mb-3
             .row.justify-content-center.align-items-star.p-3
               .col-lg-12
-                img(src="@/assets/curso/images/tema2/img_2_1.svg").mb-3
+                img(src="@/assets/curso/images/tema2/img_slyder_2.svg").mb-3
     
     .row.d-block.d-lg-none
       .row.justify-content-center.align-items-center.p-3
         .col-lg-12
-          img(src="@/assets/curso/images/tema2/mobile.svg").mb-3
+          img(src="@/assets/curso/images/tema2/mobile_1.svg").mb-3
 
     p.mb-3 Los servicios tienen un componente psicológico muy importante, <b>la percepción que el cliente tenga del dinero gastado, va a ser un factor decisivo para que vuelva y se fidelice o no vuelva a tomar su servicio </b>(Milio Balanzá, I. 2004). 
 
@@ -66,11 +66,10 @@
           .tarjeta.back-tab.px-5.py-4(titulo="Conducción: ")
             h4 Conducción: 
             p.mb-0 Encaminar al usuario con seguridad y eficiencia por los atractivos turísticos, en desarrollo del plan de viaje.
-            ltimo dígito es el dígito de comprobación.
       .col-lg-3.lg-0
         img(src='@/assets/curso/images/tema2/img_4.svg'  alt='')
 
-    p.mb-5 Para ejecutar el servicio, los alcances de la función de conducción que tiene el guía se ramifican a la administración de recursos del contratante y los propios.  Como lo describe la normatividad el guía debe prestar su servicio de manera eficiente, es decir, debe tener la capacidad de disponer de los recursos humanos, financieros y físicos para conseguir la satisfacción de los usuarios y el contratante frente al servicio guiado. 
+    p.mb-5 Para ejecutar el servicio, los alcances de la función de conducción que tiene el guía se ramifican a la administración de recursos del contratante y los propios.  Como lo describe la normatividad, el guía debe prestar su servicio de manera eficiente, es decir, debe tener la capacidad de disponer de los recursos humanos, financieros y físicos para conseguir la satisfacción de los usuarios y el contratante frente al servicio guiado. 
 
   .container.bg-white.px-md-5.px-3.py-2.container-top.fondo-6.m-top.mb-0.cs
     .row.justify-content-center.align-items-star.mb-5
@@ -104,11 +103,11 @@
               img(src='@/assets/curso/images/tema2/fig_1.svg')
             .col-lg-5
               .jumbotron-12.p-4
-                h3 Calcular las tarifas servicios guíados
+                h3 Calcular las tarifas servicios guiados
                 ul.lista-ul--color.mt-3
                   li
                     i.vineta(data-aos="fade-up") 
-                    p.mb-0 Debe acordarse previamente con el contratante a partir de lsa carcteristicas del servicio  
+                    p.mb-0 Debe acordarse previamente con el contratante a partir de las características del servicio  
           .row.justify-content-center.align-items-center
             .col-lg-5
               .jumbotron-13.p-3.mt-3

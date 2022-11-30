@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Administración y gestión de recursos propios
+      h1 Tarifa del servicio guiado 
 
     .row.justify-content-center.align-items-star.mb-3
       .col-lg-5.lg-0(data-aos="fade-right")
@@ -17,7 +17,7 @@
             .titulo-sexto.color-acento-contenido
               h5 Figura 2.
               span <i>Gestión de recursos propios del guía de turismo</i>
-        img(src='@/assets/curso/images/tema4/fig_1.svg'  alt='')
+        img(src='@/assets/curso/images/tema4/fig_1_1.svg'  alt='')
     
     Separador
 
@@ -124,7 +124,7 @@
     
     p.mb-3 Al responder las anteriores preguntas el guía está en la capacidad de ofrecer tanto servicio puede ofrecer en determinado tiempo y que para efectos prácticos de este material se llamará “capacidad de carga del guía”. 
 
-    p.mb-5 Luego determinar los insumos necesarios para prestar el servicio tales como el tiempo que debe disponer el guía, otro importante aspecto de la autonomía para la proyección económica de la actividad como guía es determinar la tarifa del servicio guiado
+    p.mb-5 Luego determinar los insumos necesarios para prestar el servicio tales como el tiempo que debe disponer el guía, otro importante aspecto de la autonomía para la proyección económica de la actividad como guía es determinar la tarifa del servicio guiado.
 
     .row.align-items-center.mb-4
       .col-auto.pe-0
@@ -140,7 +140,7 @@
         .titulo-sexto.color-acento-contenido.mb-3(data-aos="zoom-in-right")
           h5 Figura 3.
           span <i>Análisis desde el punto de vista económico para determinar tarifa</i>
-        img.mb-3(src='@/assets/curso/images/tema4/fig_2.svg'  alt='')(data-aos="zoom-in-right")
+        img.mb-3(src='@/assets/curso/images/tema4/fig_2_1.svg'  alt='')(data-aos="zoom-in-right")
 
     p.mb-5 A continuación, se disgregan los componentes de las fórmulas descritas en la imagen.
 
@@ -270,7 +270,9 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.lg-0
-        p.mb-3 Para calcular los costos y gastos de un servicio guiado es necesario que la información sea confiable y rigurosa. Un costo mal calculado puede causar pérdidas en la operación de cualquier ente económico ya sea una empresa, una pyme, un contratista o freelance.
+        p.mb-3 Para calcular los costos y gastos de un servicio guiado es necesario que la información sea confiable y rigurosa. Un costo mal calculado puede causar pérdidas en la operación de cualquier ente económico ya sea una empresa, una pyme, un contratista o <i>freelance.</i>
+
+        p.mb-3 El proceso de costeo normalmente se lleva a cabo por un contador o departamento de contabilidad y/o de costos, según las necesidades, tipo de empresa y el sistema establecido. Sin embargo, en el sector turismo y puntualmente como guías de turismo, la Orden de servicio, permite “personalizar” la operación y presentar una cotización a cada cliente.
 
 
     .row.justify-content-center.align-items-center.mb-0
@@ -311,11 +313,11 @@
 
     .row.justify-content-center.align-items-star.mb-3(data-aos="fade-up")
         .col-lg-12
-          img(src='@/assets/curso/images/tema4/fig_3.svg'  alt='')
+          img(src='@/assets/curso/images/tema4/fig_3_1.svg'  alt='')
 
           figcaption.mt-3 Nota. Adaptado de Diseño y comercialización de productos turísticos locales y regionales Milio Balanzá (2004).  
 
-    p.mb-3 De esta manera se presenta las variables que se pueden presentar en la guianza desde el costo y el gasto fijo (ver figura 4).
+    p.mb-3 La explicación de la forma en que se calculan costos y gastos se presenta en las siguientes tablas 1 y 2:  
     
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up")
       .col-lg-10
@@ -335,32 +337,32 @@
             tbody
               tr.p-0.th-4
                 <td rowspan="6"> ¿Cuáles son sus gastos y costos fijos?</td> 
-                td Ítem
+                td ¿Cuáles son sus gastos mensuales vivienda?
                 td 
                 td 700.000
           
               tr.p-0
-                td.th-3 ¿Cuáles son sus gastos mensuales vivienda?
+                td.th-3 ¿Cuáles son sus gastos mensuales en alimentación?
                 td
                 td 400.000
 
               tr.p-0
-                td.th-4  ¿Cuáles son sus gastos mensuales en alimentación?
+                td.th-4  ¿Cuáles son sus gastos mensuales servicios públicos?
                 td.th-4  
                 td.th-4  150.000
       
               tr.p-0
-                td ¿Cuáles son sus gastos mensuales servicios públicos?
+                td ¿Cuáles son sus gastos mensuales en servicio de internet y telefonía móvil?
                 td 75.000
                 td 75.000
      
               tr.p-0
-                td.th-4  ¿Cuáles son sus gastos mensuales en servicio de internet y telefonía móvil?
+                td.th-4  ¿Cuál es el gasto bancario mensual?
                 td.th-4  
                 td.th-4  50.000
 
               tr.th-3.p-0 
-                <td> ¿Cuál es el gasto bancario mensual? Subtotal Sumatoria costo y gastos fijos.</td>
+                <td>Subtotal Sumatoria costo y gastos fijo</td>
                 td.th-3  75.000
                 td.th-3  1´300.000
        
@@ -368,7 +370,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Tabla 2. 
-          span #[em Ejemplo cálculo de costo y gastos variables para un guíaa]
+          span #[em Ejemplo cálculo de costo y gastos variables para un guía]
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-up")
       .col-lg-10
@@ -404,13 +406,13 @@
      
               tr.p-0
                 td.th-4 ¿Cuánto desearía mensualmente provisionar para emergencias, jubilación, etc.?
-                td.th-4  200.000
+                td.th-4  
                 td.th-4  150.000
 
               tr.th-3.p-0 
                 td Subtotal Sumatoria costo y gastos variable
-                td.th-3  
-                td.th-3 1´850,000
+                td.th-3  200.000
+                td.th-3 1.825.000
 
     p.mb-3   El costo de equipos, indumentario y su mantenimiento de calcula anual y luego se divide en los 12 meses para obtener un aproximado.
     p.mb-5 Para calcularlo debe proyectar cuáles son sus ingresos o determinar un deseado de ingresos.
@@ -492,7 +494,7 @@
           .jumbotron-16
             .row.justify-content-center.align-items-center
               .col-5.col-lg-12.px-5(data-aos="fade-left")
-                p.mt-5.mb-2 Por ejemplo, luego de determinar su tarifa potencial y sumar los imprevistos tiene su base de cotización. <br> Para calcular la cotización debe calcular el 40% y de este aplicar el *12,5% de salud, el 16% de pensión y 1,044 de ARL
+                p.mt-5.mb-2 Por ejemplo, luego de determinar su tarifa potencial y sumar los imprevistos tiene su base de cotización. <br> Para calcular la cotización debe calcular el 40% y de este aplicar el *12,5% de salud, el 16% de pensión y 1,044 de ARL.
                 .row.justify-content-center.align-items-center
                   .col-12.col-lg-9
                     .jumbotron-15.p-2.mb-1
@@ -575,7 +577,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-up")
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mt-5
-          h5 Tabla 5. 
+          h5 Figura 5. 
           span #[em Datos necesarios para calcular el punto de equilibrio]
 
     .row.justify-content-around.align-items-center.mb-5
@@ -775,6 +777,8 @@
 
     p.mb-3 Otro ingreso del guía que no está dentro de las ganancias, sino hace parte de la operación son los viáticos, este concepto surge cuando el guía a causa de su trabajo se ve en la obligación de comer o dormir fuera de casa (ver figura 6). 
 
+    p.mb-3 En estos casos el contratante tiene varias opciones:
+    
     .row.justify-content-center.align-items-star.mb-5
       .col-lg-6.lg-0(data-aos="fade-right")
         img(src='@/assets/curso/images/tema4/img_15.svg'  alt='')
@@ -791,7 +795,14 @@
             li
               i.vineta(data-aos="fade-up") 
               p.mb-0  Pagar contra factura, es decir el guía realiza los pagos y luego solicita el reembolso con la factura de los servicios relacionados con hospedaje y alimentación, acordados previamente.
-      
+
+    .row.justify-content-center.align-items-center(data-aos="fade-up")
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.mt-5
+          h5 Figura 6. 
+          span #[em  Tarifas para el servicio guiado en la ciudad de Bogotá]
+
+        p.mb-3 En español
 
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-10.lg-0
@@ -822,7 +833,7 @@
         h4.mb-0 #[b.txt-l1 Comisiones]
   
 
-    p.mb-5 El guía tiene la oportunidad de ganar dinero con un recurso de llamado comisiones.  Se trata de promocionar y vender de acuerdo con la política empresarial, unos servicio o productos asociados al recorrido ganando un porcentaje acordado del precio de venta.  El pago de la comisión se puede hacer después de la venta del producto o servicio o al final del contrato según negociación.
+    p.mb-5 El guía tiene la oportunidad de ganar dinero con un recurso de llamado comisiones.  Se trata de promocionar y vender de acuerdo con la política empresarial, unos servicios o productos asociados al recorrido ganando un porcentaje acordado del precio de venta.  El pago de la comisión se puede hacer después de la venta del producto o servicio o al final del contrato según negociación.
 
     .row.justify-content-center.align-items-star.mb-3
       .col-lg-12

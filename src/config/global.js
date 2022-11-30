@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'El guionaje en la actividad turística',
+    componenteFormativo: 'Presupuesto del servicio guiado',
     descripcionCurso:
       'El mercado en que se desenvuelve el guía de turismo es cambiante y fluctúa entre factores que deben conocer para establecerse.  La guianza como servicio requiere de administración y conocimientos contables para el manejo de recursos propios y de terceros.  Los manejos de tarifas y los criterios para fijarlas, necesitan del análisis oportuno y definición de fórmulas matemáticas para lograr ganancia.',
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
@@ -372,12 +372,12 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
+        nombre: 'Luis Fernando Amortegui Garcia',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Daniel Felipe Varón Molina',
+        nombre: 'Jhon Fredy Rodriguez Castiblanco  ',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },

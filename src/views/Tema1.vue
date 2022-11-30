@@ -18,16 +18,16 @@
         .jumbotron.p-4.mb-3
           .h4 La Oferta
           p.mb-3 Centrada en los emprendedores, vendedores y sus negocios dedicados a la venta de servicios y productos con los cuales se espera, dar la satisfacción de los turistas. 
-          p.mb-0 La oferta está relacionada a los componentes de:  equipamientos e instalaciones como hoteles, restaurantes, casinos, información turística, entre otros y  los atractivos turísticos como los sitios naturales, museos, fiestas religiosas, industrias, concursos, la cultura, entre otros.
+          p.mb-0 La oferta está relacionada con los componentes de:  equipamientos e instalaciones como hoteles, restaurantes, casinos, información turística, entre otros, y  los atractivos turísticos como los sitios naturales, museos, fiestas religiosas, industrias, concursos, la cultura, entre otros.
         .jumbotron-1.p-4.mb-1
           .h4 La Demanda
           p.mb-3 El conjunto de clientes o posibles clientes también llamados consumidores de los bienes y servicios turísticos. 
-          p.mb-0 Centro de atención que se aprovecha de los intereses. necesidades o solicitudes que, en el caso de la guianza, está relacionado con cada uno de los sitios que visitan y como allí estos intereses y necesidades generan ventas.
+          p.mb-0 Centro de atención que se aprovecha de los intereses, necesidades o solicitudes que, en el caso de la guianza, está relacionado con cada uno de los sitios que visitan y como allí estos intereses y necesidades generan ventas.
 
     .jumbotrom-x.mb-2(data-aos="fade-left") 
       .row.justify-content-center.align-items-star
         .col-lg-12.mb-3
-          p.mb-3 Retomando el mercado turístico, es decir, las relaciones económicas que se dan entre quienes ofrecen los servicios turísticos y los usuarios,  es sensible a diferentes factores que van desde la comercialización del producto, las tecnologías disponibles y la competencia, la disponibilidad de la infraestructuras y los servicios complementarios, el sistema monetario, los controles sanitarios (restricciones por pandemia), además la situación sociopolítica del destino, la seguridad y el riesgo de las personas durante el viaje. (Romero Ternero, M. J., 2018).
+          p.mb-3 Retomando el mercado turístico, es decir, las relaciones económicas que se dan entre quienes ofrecen los servicios turísticos y los usuarios,  es sensible a diferentes factores que van desde la comercialización del producto, las tecnologías disponibles y la competencia, la disponibilidad de las infraestructuras y los servicios complementarios, el sistema monetario, los controles sanitarios (restricciones por pandemia), además la situación sociopolítica del destino, la seguridad y el riesgo de las personas durante el viaje. (Romero Ternero, M. J., 2018).
 
       .row.justify-content-center.align-items-center
         .col-12.col-md-8.col-lg-10.col-xl-10.mb-3(data-aos="fade-left")
@@ -55,7 +55,7 @@
         .row.justify-content-center.align-items-star.p-3
           .col-lg-4
             h4.mb-5 La irracionalidad
-            p.mb-3 Es propia de toda actividad de compra-venta de bienes que son de lujo. Sin embargo, con el paso del tiempo el turismo se está convirtiendo en servicio de primera necesidad..  
+            p.mb-3 Es propia de toda actividad de compra-venta de bienes que son de lujo. Sin embargo, con el paso del tiempo el turismo se está convirtiendo en servicio de primera necesidad. 
           .col-lg-8
             img(src="@/assets/curso/images/tema1/img_4.png").mb-3
 
@@ -80,7 +80,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-12.col-sm-8.mb-lg-0
                 h4.mb-2 La demanda diferida:
-                  p.mb-0 Es aquélla que no ha podido viajar por motivos del entorno (catástrofes, terrorismo, pandemias, entre otros) o de la oferta disponible (no existen plazas de alojamiento, por ejemplo). 
+                  p.mb-0 Es aquella que no ha podido viajar por motivos del entorno (catástrofes, terrorismo, pandemias, entre otros) o de la oferta disponible (no existen plazas de alojamiento, por ejemplo). 
 
           .tarjeta-blanca.p-3(x="24%" y="56%" numero="+")
             .row.justify-content-center.align-items-center
@@ -144,7 +144,7 @@
             img(src='@/assets/curso/images/tema1/ico_4.svg' alt='', style="width:120px; display:block; margin:auto 0 ;")
             .tarjeta.color-tarjeta-slyder-2
               .p-4
-                h4.text-center Marketing:
+                h4.text-center <i>Marketing:</i>
                 p.text-center Información sobre productos y publicidad de estos.
 
 
@@ -163,7 +163,7 @@
             .tarjeta.color-tarjeta-slyder-2
               .p-4
                 h4.text-center Expectativas:
-                p.text-center  Expectativas, comparabilidad, fidelidad, percepción, conservación de los recursos patrimoniales, accesibilidad, singularidad, entre otros.
+                p.text-center  Comparabilidad, fidelidad, percepción, conservación de los recursos patrimoniales, accesibilidad, singularidad, entre otros.
 
 
     p.mb-3 Otro elemento del mercado que el guía debe reconocer para ejercer sus funciones de asistencia y orientación es la oferta, la cual está determinada por ciertos factores como lo explica González Molina (2016) y Romero Ternero (2018): 

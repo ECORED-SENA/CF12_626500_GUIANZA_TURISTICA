@@ -87,7 +87,7 @@
                 th.tg-0lax(colspan='9')
                   span(style='background-color:#D9D9D9') 
                   br
-                  h3.text-center.text-white <b>Encabezado con el logo de la empresa Nombre del servicio Fecha</b>
+                  h3.text-center.text-white <b>Encabezado con el logo de la empresa <br> Nombre del servicio <br>Fecha </b>
                   span(style='background-color:#D9D9D9') 
             tbody
               tr.th-2
@@ -208,22 +208,7 @@
                   p.mb-0.text-center 
                 td.tg-0lax
                   p.mb-0.text-center 
-              tr.th-4
-                td.tg-0lax
-                  br
-                  p.text-center Nota. Tomada de Jiménez (1990).
-                td.tg-0lax
-                  p.mb-0.text-center 
-                td.tg-0lax                  
-                td.tg-0lax                  
-                td.tg-0lax                  
-                td.tg-0lax                  
-                td.tg-0lax
-                  p.mb-0.text-center 
-                td.tg-0lax
-                  p.mb-0.text-center 
-                td.tg-0lax
-                  p.mb-0.text-center 
+             
 
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-up")
@@ -241,7 +226,7 @@
     .row.justify-content-center.align-items-star.mb-3
       .col-lg-6.lg-0(data-aos="fade-left")
         .jumbotron-4.p-5
-          p.mb-0 El guía de turismo en su función de orientación y asistencia, puede asesorar respecto a diferentes servicios y apoyar a la agencia de viajes o al contratante a calcular el presupuesto que requiere para realizar determinadas actividades. Sin embargo, no se convierte en proveedor de dichos servicios (alojamiento, transporte, alimentación), tampoco en intermediación comercial, por que estaría incurriendo en una falta ética al actuar fuera de su ámbito profesional delimitado por cuatro funciones: conducir, asistir, orientar e instruir.  
+          p.mb-0 El guía de turismo, en su función de orientación y asistencia, puede asesorar respecto a diferentes servicios y apoyar a la agencia de viajes o al contratante a calcular el presupuesto que requiere para realizar determinadas actividades. Sin embargo, no se convierte en proveedor de dichos servicios (alojamiento, transporte, alimentación), tampoco en intermediación comercial, porque estaría incurriendo en una falta ética al actuar fuera de su ámbito profesional delimitado por cuatro funciones: conducir, asistir, orientar e instruir.  
       .col-lg-6.lg-0(data-aos="fade-right")
         img(src='@/assets/curso/images/tema3/img_2.png'  alt='')
 
