@@ -311,16 +311,16 @@
             .col-lg-10.bg-color-1.p-1
               h3.text-center.mt-1 Costo y gastos - fijos y variables 
 
-    .row.justify-content-center.align-items-star.mb-3(data-aos="fade-up")
+    .row.justify-content-center.align-items-star.mb-5(data-aos="fade-up")
         .col-lg-12
           img(src='@/assets/curso/images/tema4/fig_3_1.svg'  alt='')
 
           figcaption.mt-3 Nota. Adaptado de Diseño y comercialización de productos turísticos locales y regionales Milio Balanzá (2004).  
 
-    p.mb-3 La explicación de la forma en que se calculan costos y gastos se presenta en las siguientes tablas 1 y 2:  
     
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up")
       .col-lg-10
+        p.mb-0 La explicación de la forma en que se calculan costos y gastos se presenta en las siguientes tablas 1 y 2:  
         .titulo-sexto.color-acento-contenido.mt-5
           h5 Tabla 1. 
           span #[em Ejemplo cálculo de costo y gastos fijos para un guía]
@@ -354,17 +354,9 @@
               tr.p-0
                 td ¿Cuáles son sus gastos mensuales en servicio de internet y telefonía móvil?
                 td 75.000
-                td 75.000
+                td 
      
-              tr.p-0
-                td.th-4  ¿Cuál es el gasto bancario mensual?
-                td.th-4  
-                td.th-4  50.000
-
-              tr.th-3.p-0 
-                <td>Subtotal Sumatoria costo y gastos fijo</td>
-                td.th-3  75.000
-                td.th-3  1´300.000
+         
        
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up")
       .col-lg-10

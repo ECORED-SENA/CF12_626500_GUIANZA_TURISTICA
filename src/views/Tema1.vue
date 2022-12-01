@@ -21,7 +21,7 @@
           p.mb-0 La oferta está relacionada con los componentes de:  equipamientos e instalaciones como hoteles, restaurantes, casinos, información turística, entre otros, y  los atractivos turísticos como los sitios naturales, museos, fiestas religiosas, industrias, concursos, la cultura, entre otros.
         .jumbotron-1.p-4.mb-1
           .h4 La Demanda
-          p.mb-3 El conjunto de clientes o posibles clientes también llamados consumidores de los bienes y servicios turísticos. 
+          p.mb-3 El conjunto de clientes o posibles clientes, también llamados consumidores de los bienes y servicios turísticos. 
           p.mb-0 Centro de atención que se aprovecha de los intereses, necesidades o solicitudes que, en el caso de la guianza, está relacionado con cada uno de los sitios que visitan y como allí estos intereses y necesidades generan ventas.
 
     .jumbotrom-x.mb-2(data-aos="fade-left") 

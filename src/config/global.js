@@ -244,8 +244,7 @@ export default {
       referencia:
         'Resolución número 135 de 2016. [Consejo Profesional De Guias De Turismo]. Por la cual se dicta el código de ética de la profesión del guionaje o guianza turística y se deroga la resolución número 221 del 8 de abril de 1999. 26 de diciembre de 2016.',
       tipo: 'Documentos normativos',
-      link:
-        'http://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Leyes/30040295',
+      link: 'https://vlex.com.co/vid/resolucion-numero-135-2016-727157625',
     },
     {
       tema: 'Administración de recursos propios',
