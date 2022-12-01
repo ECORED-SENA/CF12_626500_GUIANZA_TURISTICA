@@ -359,7 +359,7 @@
               tr.p-0
                 td ¿Cuál es el gasto bancario mensual?
                 td 
-                td 75.000
+                td 50.000
      
               tr.p-0
                 td Subtotal Sumatoria costo y gastos fijos
