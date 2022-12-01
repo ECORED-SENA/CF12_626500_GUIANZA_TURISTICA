@@ -3,7 +3,9 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Durante el recorrido por el componente formativo fue posible leer, analizar y observar el proceso tan interesante frente a la guianza turística y cómo ha evolucionado este ejercicio en la historia y en el contexto colombiano, en el siguiente mapa se presenta el resumen vivido:
+    p.mb-3 Durante el recorrido por el componente formativo fue posible leer, analizar y observar el proceso tan interesante frente a la guianza turística y cómo ha evolucionado este ejercicio en la historia y en el contexto colombiano, en el siguiente mapa se presenta el resumen vivido:
+
+    h3.mb-5.text-center Presupuesto del servicio guiado
 
     .row.justify-content-center
       .col-lg-10.mb-5

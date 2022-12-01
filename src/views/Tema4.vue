@@ -22,7 +22,7 @@
     Separador
 
     #t_4_1.titulo-segundo
-      .h2 4.1. Tarifa del servicio guiado 
+      .h2 4.1 Tarifa del servicio guiado 
 
 
     p.mb-5 El precio o tarifa como se denomina en la guianza, hace referencia a la cantidad de dinero que el cliente está dispuesto a pagar por un producto o servicio determinado. Los criterios para aplicar tarifas reducidas, lo mismo que para aplicar tarifas altas y cuándo hacerlo, han de formar parte de la política del servicio del guía.
@@ -355,8 +355,16 @@
                 td ¿Cuáles son sus gastos mensuales en servicio de internet y telefonía móvil?
                 td 75.000
                 td 
+
+              tr.p-0
+                td ¿Cuál es el gasto bancario mensual?
+                td 
+                td 75.000
      
-         
+              tr.p-0
+                td Subtotal Sumatoria costo y gastos fijos
+                td 75.000
+                td 1.300.000
        
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up")
       .col-lg-10
