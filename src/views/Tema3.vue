@@ -19,9 +19,9 @@
             .col-lg-10(data-aos="fade-right")
               p.mb-3 <b>¿Qué es un presupuesto?</b>
 
-              p.mb-3 La palabra se compone de dos raíces latinas: “pre” que traduce antes de o delante de y “suponer” que traduce hacer supuesto, hecho formado, por tanto, presupuesto antes de lo hecho o supuesto previamente.
+              p.mb-3 La palabra se compone de dos raíces latinas: “pre” = antes de o delante de y “suponer” =hacer supuesto, hecho formado, por tanto, presupuesto antes de lo hecho o supuesto previamente.
 
-              p.mb-0 El servicio guiado, hace referencia en unidades monetarias (dinero, en el caso de pagos proveedores cuyas estimaciones están basadas en métodos, en la experiencia y que con la planeación, coordinación y control de todas las funciones).
+              p.mb-3 En el servicio guiado, hace referencia en unidades monetarias (dinero en el caso de pagos proveedores cuyas estimaciones están basadas en métodos). 
 
     p.mb-5 El presupuesto es parte fundamental del plan de acción, en el formato puede ser un anexo o incluirse dentro del mismo. Para la elaboración del presupuesto es necesario realizar las siguientes actividades, según Vinicio (2009) citado por Sena (2018):
 

@@ -64,7 +64,7 @@
             h4.mb-5 Potencialmente universal. 
             p.mb-3 Esta característica se refiere a que todos los hombres al menos potencialmente son turistas, por tanto, la demanda turística abarca a toda la humanidad. 
           .col-lg-8
-            img(src="@/assets/curso/images/tema1/img_5.png").mb-3
+            img(src="@/assets/curso/images/tema1/img_new.jpg").mb-3
 
     p.mb-3 Otro factor a tener en cuenta, es el de la clasificación,  como lo explica González Molina (2016), la demanda turística se divide en cuatro grandes grupos: 
 
