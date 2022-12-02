@@ -1,1 +1,1 @@
-module.exports = 'El guionaje en la actividad turística'
+module.exports = 'Presupuesto del servicio guiado'
